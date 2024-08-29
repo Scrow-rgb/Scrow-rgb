@@ -11,11 +11,8 @@
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img align="center" alt="Dart" src= https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-
-
-
 </div><br/>
+<br>
 
 Apaixonado por tecnologia e resolução de problemas através da programação, atualmente cursando Engenharia de Computação na Puc Minas.
 
