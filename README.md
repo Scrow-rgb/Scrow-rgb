@@ -9,6 +9,7 @@
 <img  align = "center" alt = "Java" src = https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/><img  align = "center" alt = "Dart" src = https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white/>
 <img  align = "center" alt = "Html5" src =https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>
 <img  align = "center" alt = "CSS3" src =https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>
+  <img  align = "center" alt = "Python" src =[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white/>](https://image.shutterstock.com/image-photo/image-260nw-1405339748.jpg)
 </div><br/>
 
 Apaixonado por tecnologia e resolução de problemas através da programação, atualmente cursando Engenharia de Computação na Puc Minas.
