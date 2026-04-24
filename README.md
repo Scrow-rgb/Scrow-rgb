@@ -1,20 +1,56 @@
-### Olá eu sou o Caio Silva ✋
+# Olá, eu sou o Caio 👋
 
-![Scrow-rgb GitHub stats](https://github-readme-stats.vercel.app/api?username=Scrow-rgb&show_icons=true&theme=dracula)
+## 👨‍💻 Software Developer
 
-## Tecnologia que eu uso
+Sou desenvolvedor focado em criar soluções eficientes, bem estruturadas e escaláveis.
 
-<div style = "display: inline_block" ><br/>
-<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img align="center" alt="Dart" src= https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-</div><br/>
-<br>
+---
 
-Apaixonado por tecnologia e resolução de problemas através da programação, atualmente cursando Engenharia de Computação na Puc Minas.
+## 🚀 Tecnologias
 
+### 💻 Linguagens
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
 
+---
 
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
+
+---
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+---
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+
+---
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scrow-rgb&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scrow-rgbO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/caio-silva-931a0723a/)
+- Email: caiorjs138@gmail.com  
